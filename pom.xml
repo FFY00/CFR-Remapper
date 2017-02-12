@@ -56,7 +56,7 @@
       <dependency>
          <groupId>org.fife.ui</groupId>
          <artifactId>rsyntaxtextarea</artifactId>
-         <version>2.0.4.1</version>
+         <version>1.4.1</version>
       </dependency>
    </dependencies>
 </project>
